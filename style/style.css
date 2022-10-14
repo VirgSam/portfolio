@@ -1,0 +1,16 @@
+
+.flexContainer
+{
+   display: flex; 
+   border: 2px black solid;
+   justify-content: center;
+   max-width: 100%;  
+    height: auto; 
+}
+.headshot {
+    display: flex;
+    justify-content: center;
+    border: 2px black solid;
+    max-width: 100%;  
+    height: auto;  
+}
