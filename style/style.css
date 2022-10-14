@@ -14,3 +14,7 @@
     max-width: 100%;  
     height: auto;  
 }
+ .borders{
+    background-color: #4e77e6;
+    border: 2px black solid;
+ }
